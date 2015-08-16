@@ -1,7 +1,6 @@
 package com.spartanlaboratories.tetis.main;
 
 public class Diarrhea extends Conditions{
-
 	public Diarrhea(){
 		cancer = 25;
 		aids = 250;
